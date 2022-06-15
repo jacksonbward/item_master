@@ -1,0 +1,175 @@
+{
+    'FobPointArray': {
+        'FobPoint': [
+            {
+                'fobId': 'FL',
+                'fobCity': 'Pompano Beach',
+                'fobState': 'FL',
+                'fobPostalCode': '33069',
+                'fobCountry': 'us',
+                'CurrencySupportedArray': {
+                    'CurrencySupported': [
+                        {
+                            'currency': 'USD'
+                        }
+                    ]
+                },
+                'ProductArray': {
+                    'Product': [
+                        {
+                            'productId': '6030'
+                        }
+                    ]
+                }
+            },
+            {
+                'fobId': 'NJ',
+                'fobCity': 'Robbinsville',
+                'fobState': 'NJ',
+                'fobPostalCode': '08691',
+                'fobCountry': 'us',
+                'CurrencySupportedArray': {
+                    'CurrencySupported': [
+                        {
+                            'currency': 'USD'
+                        }
+                    ]
+                },
+                'ProductArray': {
+                    'Product': [
+                        {
+                            'productId': '6030'
+                        }
+                    ]
+                }
+            },
+            {
+                'fobId': 'KS',
+                'fobCity': 'Olathe',
+                'fobState': 'KS',
+                'fobPostalCode': '66061',
+                'fobCountry': 'us',
+                'CurrencySupportedArray': {
+                    'CurrencySupported': [
+                        {
+                            'currency': 'USD'
+                        }
+                    ]
+                },
+                'ProductArray': {
+                    'Product': [
+                        {
+                            'productId': '6030'
+                        }
+                    ]
+                }
+            },
+            {
+                'fobId': 'DS',
+                'fobCity': 'Olathe',
+                'fobState': 'KS',
+                'fobPostalCode': '66061',
+                'fobCountry': 'us',
+                'CurrencySupportedArray': {
+                    'CurrencySupported': [
+                        {
+                            'currency': 'USD'
+                        }
+                    ]
+                },
+                'ProductArray': {
+                    'Product': [
+                        {
+                            'productId': '6030'
+                        }
+                    ]
+                }
+            },
+            {
+                'fobId': 'TX',
+                'fobCity': 'Fort Worth',
+                'fobState': 'TX',
+                'fobPostalCode': '76137',
+                'fobCountry': 'us',
+                'CurrencySupportedArray': {
+                    'CurrencySupported': [
+                        {
+                            'currency': 'USD'
+                        }
+                    ]
+                },
+                'ProductArray': {
+                    'Product': [
+                        {
+                            'productId': '6030'
+                        }
+                    ]
+                }
+            },
+            {
+                'fobId': 'GA',
+                'fobCity': 'McDonough',
+                'fobState': 'GA',
+                'fobPostalCode': '30253',
+                'fobCountry': 'us',
+                'CurrencySupportedArray': {
+                    'CurrencySupported': [
+                        {
+                            'currency': 'USD'
+                        }
+                    ]
+                },
+                'ProductArray': {
+                    'Product': [
+                        {
+                            'productId': '6030'
+                        }
+                    ]
+                }
+            },
+            {
+                'fobId': 'NV',
+                'fobCity': 'Reno',
+                'fobState': 'NV',
+                'fobPostalCode': '89506',
+                'fobCountry': 'us',
+                'CurrencySupportedArray': {
+                    'CurrencySupported': [
+                        {
+                            'currency': 'USD'
+                        }
+                    ]
+                },
+                'ProductArray': {
+                    'Product': [
+                        {
+                            'productId': '6030'
+                        }
+                    ]
+                }
+            },
+            {
+                'fobId': 'IL',
+                'fobCity': 'Lockport',
+                'fobState': 'IL',
+                'fobPostalCode': '60441',
+                'fobCountry': 'us',
+                'CurrencySupportedArray': {
+                    'CurrencySupported': [
+                        {
+                            'currency': 'USD'
+                        }
+                    ]
+                },
+                'ProductArray': {
+                    'Product': [
+                        {
+                            'productId': '6030'
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    'ErrorMessage': None
+}

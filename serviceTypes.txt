@@ -1,0 +1,40 @@
+{
+    'Code': 'INV',
+    'Name': 'Inventory'
+}
+{
+    'Code': 'INVC',
+    'Name': 'Invoice'
+}
+{
+    'Code': 'MED',
+    'Name': 'Media Content'
+}
+{
+    'Code': 'OSN',
+    'Name': 'Order Shipment Notification'
+}
+{
+    'Code': 'ODRSTAT',
+    'Name': 'Order Status'
+}
+{
+    'Code': 'PDC',
+    'Name': 'Product Compliance'
+}
+{
+    'Code': 'Product',
+    'Name': 'Product Data'
+}
+{
+    'Code': 'PPC',
+    'Name': 'Product Pricing and Configuration'
+}
+{
+    'Code': 'PO',
+    'Name': 'Purchase Order'
+}
+{
+    'Code': 'SPCC',
+    'Name': 'Service Provider Customer Credentials'
+}

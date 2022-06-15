@@ -1,0 +1,13 @@
+{
+    'Service': {
+        'ServiceType': {
+            'Code': 'PPC',
+            'Name': 'Product Pricing and Configuration'
+        },
+        'Status': 'Production',
+        'Version': '1.0.0',
+        'WSDL': '/attachments/42'
+    },
+    'TestURL': None,
+    'URL': 'https://promostandards.ssactivewear.com/pricingandconfiguration/v1/pricingandconfigurationservice.svc'
+}

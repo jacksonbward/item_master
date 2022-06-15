@@ -1,0 +1,117 @@
+{
+    'ServiceType': {
+        'Code': 'INV',
+        'Name': 'Inventory'
+    },
+    'Status': 'Deprecated',
+    'Version': '1.0.0',
+    'WSDL': '/attachments/8'
+}
+{
+    'ServiceType': {
+        'Code': 'INV',
+        'Name': 'Inventory'
+    },
+    'Status': 'Production',
+    'Version': '1.2.1',
+    'WSDL': '/attachments/12'
+}
+{
+    'ServiceType': {
+        'Code': 'INV',
+        'Name': 'Inventory'
+    },
+    'Status': 'Production',
+    'Version': '2.0.0',
+    'WSDL': '/attachments/82'
+}
+{
+    'ServiceType': {
+        'Code': 'INVC',
+        'Name': 'Invoice'
+    },
+    'Status': 'Production',
+    'Version': '1.0.0',
+    'WSDL': '/attachments/107'
+}
+{
+    'ServiceType': {
+        'Code': 'MED',
+        'Name': 'Media Content'
+    },
+    'Status': 'Deprecated',
+    'Version': '1.0.0',
+    'WSDL': '/attachments/18'
+}
+{
+    'ServiceType': {
+        'Code': 'MED',
+        'Name': 'Media Content'
+    },
+    'Status': 'Production',
+    'Version': '1.1.0',
+    'WSDL': '/attachments/58'
+}
+{
+    'ServiceType': {
+        'Code': 'OSN',
+        'Name': 'Order Shipment Notification'
+    },
+    'Status': 'Production',
+    'Version': '1.0.0',
+    'WSDL': '/attachments/25'
+}
+{
+    'ServiceType': {
+        'Code': 'ODRSTAT',
+        'Name': 'Order Status'
+    },
+    'Status': 'Production',
+    'Version': '1.0.0',
+    'WSDL': '/attachments/1'
+}
+{
+    'ServiceType': {
+        'Code': 'PDC',
+        'Name': 'Product Compliance'
+    },
+    'Status': 'Production',
+    'Version': '1.0.0',
+    'WSDL': '/attachments/100'
+}
+{
+    'ServiceType': {
+        'Code': 'Product',
+        'Name': 'Product Data'
+    },
+    'Status': 'Production',
+    'Version': '1.0.0',
+    'WSDL': '/attachments/30'
+}
+{
+    'ServiceType': {
+        'Code': 'Product',
+        'Name': 'Product Data'
+    },
+    'Status': 'Production',
+    'Version': '2.0.0',
+    'WSDL': '/attachments/89'
+}
+{
+    'ServiceType': {
+        'Code': 'PPC',
+        'Name': 'Product Pricing and Configuration'
+    },
+    'Status': 'Production',
+    'Version': '1.0.0',
+    'WSDL': '/attachments/42'
+}
+{
+    'ServiceType': {
+        'Code': 'PO',
+        'Name': 'Purchase Order'
+    },
+    'Status': 'Production',
+    'Version': '1.0.0',
+    'WSDL': '/attachments/75'
+}

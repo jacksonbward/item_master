@@ -1,0 +1,7190 @@
+{
+    'Code': '1DayPromos',
+    'Name': '1 Day Promos',
+    'Type': 'Distributor'
+}
+{
+    'Code': '135promos',
+    'Name': '135promos',
+    'Type': 'Supplier'
+}
+{
+    'Code': '1800tshirts.com',
+    'Name': '1800TSHIRTS.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': '1percolor',
+    'Name': '1percolor',
+    'Type': 'Distributor'
+}
+{
+    'Code': '2impress',
+    'Name': '2impress',
+    'Type': 'Distributor'
+}
+{
+    'Code': '365source',
+    'Name': '365 Source',
+    'Type': 'Supplier'
+}
+{
+    'Code': '3dASAP',
+    'Name': '3dASAP',
+    'Type': 'Distributor'
+}
+{
+    'Code': '3M',
+    'Name': '3M Promotional Markets',
+    'Type': 'Supplier'
+}
+{
+    'Code': '4sizzlellc',
+    'Name': '4 Sizzle LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': '4AllPromos',
+    'Name': '4AllPromos',
+    'Type': 'Distributor'
+}
+{
+    'Code': '4over',
+    'Name': '4over',
+    'Type': 'Distributor'
+}
+{
+    'Code': '4promosllc',
+    'Name': '4Promos llc',
+    'Type': 'Distributor'
+}
+{
+    'Code': '5bsinc',
+    'Name': '5Bs Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': '773designs,llc.',
+    'Name': '773Designs, LLC.',
+    'Type': 'Distributor'
+}
+{
+    'Code': '81eighty',
+    'Name': '81Eighty',
+    'Type': 'Distributor'
+}
+{
+    'Code': '85Supply',
+    'Name': '85Supply',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'a+winedesigns',
+    'Name': 'A+ Wine Designs',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'aaainnovations',
+    'Name': 'aaa innovations',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'aahaa',
+    'Name': 'aahaa',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Aakron',
+    'Name': 'AAkron Rule Corp.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'aaron@arrowmarketi',
+    'Name': 'aaron@arrowmarketing.ca',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'abbasofttechnologi',
+    'Name': 'Abbasoft Technologies',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'abcoinc',
+    'Name': 'Abco Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'able',
+    'Name': 'Able Recognition',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ABOVEALLADVERTISTINGLLC',
+    'Name': 'Above All Advertising LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'acceletateprintgro',
+    'Name': 'Acceletate Print Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'accessorycore',
+    'Name': 'Accessorycore',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ackreative',
+    'Name': 'ackreative',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'acmeprintsscreenpr',
+    'Name': 'Acme Prints Screen Printing',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'acrobatbrandinggro',
+    'Name': 'Acrobat Branding Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'action',
+    'Name': 'Action Specialties',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'adlineindustries,i',
+    'Name': 'Ad Line Industries, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'adlineindustries,i0',
+    'Name': 'Ad Line Industries, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'adproinc.',
+    'Name': 'Ad Pro Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ADPRODUCTSBAZAARINC',
+    'Name': 'Ad Products Bazaar Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ADNART',
+    'Name': 'Ad-N-Art',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'adamblockdesign',
+    'Name': 'Adam Block Design',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'adamhodson',
+    'Name': 'Adam Hodson',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'adcapitol/s.m.a.r.',
+    'Name': 'ADCAPITOL / S.M.A.R.T. Tiers Shirts',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'adcomarketing',
+    'Name': 'Adco Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'adgpromotionalprod',
+    'Name': 'ADG Promotional Products',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'admarpromotionspow',
+    'Name': 'Admar Promotions Powered by Proforma',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ADMARTPRODUCTS',
+    'Name': 'Admart Products',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ADMATCHCORPORATION',
+    'Name': 'Admatch Corporation',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'admiral-usa',
+    'Name': 'Admiral Consulting Group',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'adsphoenixinc',
+    'Name': 'ADS PHOENIX INC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'adventureoutfitter',
+    'Name': 'Adventure Outfitters',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'advertisingspecial',
+    'Name': 'Advertising Specialty Institute',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ASI',
+    'Name': 'Advertising Specialty Institute (ASI)',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'advoc80',
+    'Name': 'Advoc8',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'advoc8',
+    'Name': 'advoc8',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'aftonpromotions',
+    'Name': 'Afton Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'agraffesinnovation',
+    'Name': 'Agraffes Innovation',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'AIA',
+    'Name': 'AIA Corporation',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'aimastermindgroup',
+    'Name': 'AIMastermind Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'AIM',
+    'Name': 'AIMastermind Group',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'aimsmarterllc',
+    'Name': 'AIMSmarter LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ajjshops',
+    'Name': 'ajjshops',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'AJM',
+    'Name': 'AJM International',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ALEXASPRINGS',
+    'Name': 'Alexa Springs',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'alexander',
+    'Name': 'Alexander',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'alightpromos',
+    'Name': 'ALightPromos',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ALL',
+    'Name': 'All In One',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'all-securegraphics',
+    'Name': 'All-Secure Graphics',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'allaboutpromos',
+    'Name': 'AllAboutPromos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'allen',
+    'Name': 'Allen ColorCraft / The Allen Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'alliedproductscorp',
+    'Name': 'Allied Products Corporation',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'alphaimpressions',
+    'Name': 'Alpha Impressions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'alphabroder',
+    'Name': 'Alphabroder',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'alphaca',
+    'Name': 'Alphabroder - Canada',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Apli',
+    'Name': 'Alpi',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'altitudegroupinc',
+    'Name': 'Altitude Group Inc',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ALUMICOLOR',
+    'Name': 'Alumicolor',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'amasystems',
+    'Name': 'Ama-Systems',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'amberworldwide',
+    'Name': 'Amber Worldwide',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'AMERICANACCENTS',
+    'Name': 'American Accents',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'americanadbag',
+    'Name': 'AMERICAN AD BAG',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'AdBag',
+    'Name': 'American Ad Bag',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'americanapparel&pr',
+    'Name': 'American Apparel & Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'AMERICANCALENDARCO',
+    'Name': 'American Calendar Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'AMERICANGREENWOOD',
+    'Name': 'American Greenwood (A Fields Company)',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'americanheroclothi',
+    'Name': 'American Hero Clothing',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'american',
+    'Name': 'American Solutions for Business',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'americansolutionsf',
+    'Name': 'American Solutions for Business',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'americanna',
+    'Name': 'americanna',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'amerifoam®-thehous',
+    'Name': 'AmeriFoam® - The House of Foam',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'amggroupmusicevent',
+    'Name': 'AMG Group Music Events, LLC DBA LOGOGEAR.STORE',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ampmspecialties',
+    'Name': 'AMPMSPECIALTIES',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ampro',
+    'Name': 'Ampro',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Antera',
+    'Name': 'Antera Software',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ANTERATEST',
+    'Name': 'Antera Test',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'antigua',
+    'Name': 'Antigua',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'antiguagroup',
+    'Name': 'Antigua Group',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Any',
+    'Name': 'Anypromo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'AOCOOLERS',
+    'Name': 'AO Coolers',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'apspecialties',
+    'Name': 'AP Specialties',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'apexadvertising',
+    'Name': 'Apex Advertising',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'apisource,inc.',
+    'Name': 'APISOURCE, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'apliiqinc',
+    'Name': 'Apliiq Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'apollo',
+    'Name': 'Apollo USA',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'apparelauthority',
+    'Name': 'Apparel Authority',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ABS',
+    'Name': 'Apparel Business Systems',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'apparelforu',
+    'Name': 'apparel for U',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'apparelorbit',
+    'Name': 'Apparel Orbit',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'apparelnbags.com',
+    'Name': 'ApparelnBags.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'apparelnbags.comin',
+    'Name': 'ApparelnBags.com Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'applaudcreative',
+    'Name': 'Applaud Creative',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'apronsetc.',
+    'Name': 'Aprons Etc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Ariel',
+    'Name': 'Ariel Premium Supply',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'arrowmarketing',
+    'Name': 'Arrow Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'artpromos',
+    'Name': 'Art Promos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'artistictoys&promo',
+    'Name': 'Artistic Toys & Promotions, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ARTMETAL',
+    'Name': 'Artmetal',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ASI',
+    'Name': 'ASI',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'asicomputersystems',
+    'Name': 'ASI Computer Systems',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'associatedpremiumc',
+    'Name': 'Associated Premium Corporation',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'associatedpremiumc0',
+    'Name': 'Associated Premium Corporation',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'associatedpremiumc00',
+    'Name': 'Associated Premium Corporation',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Athena',
+    'Name': 'Athena Promo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'athenapromo(akafla',
+    'Name': 'Athena Promo (aka Flash Drive Line)',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'AthensScreen',
+    'Name': 'Athens Screen Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'AthensShirts',
+    'Name': 'Athens Shirts',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'athleio',
+    'Name': 'Athleio',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ACC',
+    'Name': 'Atlantic Coast Cotton',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'atlanticcoastcotto',
+    'Name': 'Atlantic Coast Cotton',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ATS Printing',
+    'Name': 'ATS Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'attraction',
+    'Name': 'Attraction',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'aturianllc',
+    'Name': 'Aturian LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'augusta',
+    'Name': 'Augusta Sportswear',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'augustasportswear',
+    'Name': 'Augusta Sportswear',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Axis',
+    'Name': 'Axis Promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'axispromotions',
+    'Name': 'Axis Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'axodigital',
+    'Name': 'AXO Digital',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'aztecpromotional',
+    'Name': 'AztecPromotional',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'azx',
+    'Name': 'AZX Sport',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'b&bprintsource',
+    'Name': 'B&B Print Source',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'b&bsystemsllc',
+    'Name': 'B&B Systems LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'badgerscreenprinti',
+    'Name': 'Badger Screen Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'badgerscreenprinti0',
+    'Name': 'Badger Screen Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'bagdesigns-justinc',
+    'Name': 'Bag Designs Justin Case',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BagMakers',
+    'Name': 'Bag Makers',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bagworld',
+    'Name': 'Bag World',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bagmasters',
+    'Name': 'Bagmasters',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bagworld0',
+    'Name': 'BAGWORLD',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BAGZAZZ',
+    'Name': 'Bagzazz',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bagzdepot',
+    'Name': 'BagzDepot',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ballpro',
+    'Name': 'Ball Pro',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'baltimoreglassware',
+    'Name': 'Baltimore Glassware Decorators',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bambams',
+    'Name': 'BamBams',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bamko',
+    'Name': 'BAMKO',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BANAKAINC',
+    'Name': 'Banaka, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'batcityinc.',
+    'Name': 'Bat City Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Baudville',
+    'Name': 'Baudville',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'baystate',
+    'Name': 'Bay State',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bcgcreations',
+    'Name': 'BCG Creations',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Beacon',
+    'Name': 'Beacon Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bearwithme',
+    'Name': 'Bear With Me',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'belpromo',
+    'Name': 'BEL Promo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Bell',
+    'Name': 'BellPromo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Bentcil',
+    'Name': 'Bentcil',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bentcilcompany',
+    'Name': 'Bentcil Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bergmanincentives',
+    'Name': 'Bergman Incentives',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'BERLEKAMPPLASTICSINC',
+    'Name': 'Berlekamp Plastics, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BERNEYKARPINC',
+    'Name': 'Berney-Karp, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BESTPROMOTIONSUSALLC',
+    'Name': 'BEST Promotions USA, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BETTERLIFELINE',
+    'Name': 'Better Life Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bhtrademarket',
+    'Name': 'BH Trade Market',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'bhive',
+    'Name': 'BhiveLab',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'BICLOGOLIGHTER',
+    'Name': 'Bic Logo Lighter',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bidpress',
+    'Name': 'bidpress',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'bigepromos',
+    'Name': 'Big E Promos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'bigstarbranding',
+    'Name': 'Big Star Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'bigstarbranding0',
+    'Name': 'Big Star Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'binaryblastingllc',
+    'Name': 'Binary Blasting LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'binatedinc',
+    'Name': 'Binated Inc',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'binatedinc0',
+    'Name': 'Binated Inc',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'bistasolutions',
+    'Name': 'Bista Solutions',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'biztechcs',
+    'Name': 'Biztechcs',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'blsol',
+    'Name': 'bl solutions',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'blackforestltd',
+    'Name': 'Black Forest LTD',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'blackmaplecreative',
+    'Name': 'Black Maple Creative',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'blanksamerica',
+    'Name': 'Blanksamerica',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'blinkmarketinginc',
+    'Name': 'BLINK MARKETING INC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'blinkswag',
+    'Name': 'Blink Swag',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'blmcreativeenterpr',
+    'Name': 'Blm Creative Enterprises, Inc Dba Chameleon Creati',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'BLOOMINPROMOTIONS',
+    'Name': 'Bloomin Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BLOUINDISPLAYS',
+    'Name': 'Blouin Displays',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BLUPRIMEPLAYINGCARDS',
+    'Name': 'Blu Prime Playing Cards',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bluechip',
+    'Name': 'Blue Chip',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'bluedogmerch',
+    'Name': 'Blue Dog Merch',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'bluegeneration',
+    'Name': 'Blue Generation',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bluegeneration0',
+    'Name': 'Blue Generation',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'bluepelican',
+    'Name': 'Blue Pelican Software',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'BlueStingray',
+    'Name': 'Blue Stingray',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'bmp',
+    'Name': 'BMP',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BNBLINE',
+    'Name': 'BNBLine',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BNMWHOLESALE',
+    'Name': 'BNM Wholesale',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'boardroomcustomclo',
+    'Name': 'Boardroom Custom Clothing',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'boardroom-viking-a',
+    'Name': 'Boardroom-Viking-Alliance Mercantile',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bob',
+    'Name': 'Bob Levitt Company',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'bocaterry',
+    'Name': 'Boca Terry',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bonfirefundsinc',
+    'Name': 'Bonfire Funds Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'boundless',
+    'Name': 'Boundless',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'boundless',
+    'Name': 'Boundless Network',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'boxercraft',
+    'Name': 'Boxercraft',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'bpennamp',
+    'Name': 'BpennAmp',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'brainchildgiftclub',
+    'Name': 'Brainchild Gift Club',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'brandassetmarketin',
+    'Name': 'Brand Asset Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'brandcentralmke',
+    'Name': 'Brand Central MKE',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'brandrpm,llc',
+    'Name': 'Brand RPM, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'brandstreetllc',
+    'Name': 'Brand Street LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'brandalliance',
+    'Name': 'BrandAlliance',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'branding',
+    'Name': 'Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'brandit',
+    'Name': 'Brandit',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'branditllc',
+    'Name': 'BRANDIT LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'branditco',
+    'Name': 'BranditCo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'brandleypromotions',
+    'Name': 'BRANDley Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'brandscene',
+    'Name': 'Brandscene',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'braveusa',
+    'Name': 'Brave USA',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'brentwoodline',
+    'Name': 'Brentwood Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'brewerybranding',
+    'Name': 'Brewery Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'BIGroup',
+    'Name': 'Brialliant Image Group',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'brianharrisagencie',
+    'Name': 'Brian Harris Agencies Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'bright',
+    'Name': 'Bright Box',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Bright',
+    'Name': 'Bright Stores',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'brightbox,inc.',
+    'Name': 'BrightBox, Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'Bright',
+    'Name': 'Brighter Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'brilliant00',
+    'Name': 'Brilliant',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'brilliant000',
+    'Name': 'Brilliant',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'brilliant0',
+    'Name': 'Brilliant',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Brilliant',
+    'Name': 'Brilliant Marketing Ideas',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'britten',
+    'Name': 'Britten Studios',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'brokenarrowwear',
+    'Name': 'Broken Arrow',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Budget',
+    'Name': 'BudgetCard, Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bugattigroup',
+    'Name': 'Bugatti Group',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'bulletinbrands',
+    'Name': 'Bulletin Brands',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'businesst-shirtclu',
+    'Name': 'Business T-Shirt Club',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'buttonsmith',
+    'Name': 'Buttonsmith',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'buttonstar',
+    'Name': 'ButtonStar',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'BUYBUTTONS',
+    'Name': 'Buy Buttons',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'buy1store',
+    'Name': 'Buy1 Store',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'buyhivetechnologie',
+    'Name': 'Buyhive Technologies Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'buypromos',
+    'Name': 'buypromos.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'c-slide',
+    'Name': 'C-Slide',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'calico',
+    'Name': 'Calico',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'calleologowear',
+    'Name': 'Calleo Logowear',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'camarasignature',
+    'Name': 'Camara Signature',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CAMEOLINE',
+    'Name': 'Cameo Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'camerareadyartinc.',
+    'Name': 'CAMERAReadyArt Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'can-dopromotions,i0',
+    'Name': 'Can-Do Promotions, Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'can-dopromotions,i',
+    'Name': 'Can-Do Promotions, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CanadaSportswear',
+    'Name': 'Canada Sportswear',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'candlestreamsystem',
+    'Name': 'CandleStream Systems Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'cannabispromotions',
+    'Name': 'Cannabis Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'canyonpromotionsll',
+    'Name': 'Canyon Promotions LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CAP',
+    'Name': 'Cap America',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CAPITALAPPAREL',
+    'Name': 'Capital Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'capsdirect',
+    'Name': 'Caps Direct',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'capsandshirts',
+    'Name': 'capsandshirts',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CARLSONCRAFT',
+    'Name': 'Carlson Craft',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'carolinamade',
+    'Name': 'Carolina Made Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CAROLINAPRINTWORKS',
+    'Name': 'Carolina Print Works',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'caseablegmbh',
+    'Name': 'caseable GmbH',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'cbiprint0',
+    'Name': 'CBi Print',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'cbiprint',
+    'Name': 'CBi Print',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ccgmarketingsoluti',
+    'Name': 'CCG Marketing Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CERTIFAGIFTCO',
+    'Name': 'Certif-A-Gift Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'cfdfpromoinc.',
+    'Name': 'CFDFpromo INC.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CHAMELEONBEVERAGECO',
+    'Name': 'Chameleon Beverage Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'cham',
+    'Name': 'Chameleon Like, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'chameleonlike',
+    'Name': 'Chameleonlike',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'charlesalexanderdi',
+    'Name': 'Charles Alexander Distribution Limited',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Charles',
+    'Name': 'Charles River Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'checkpoint1apparel',
+    'Name': 'Checkpoint1 Apparel Corp',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'cheyennephotograph',
+    'Name': 'Cheyennephotographicart.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'chocolatechocolate',
+    'Name': 'Chocolate Chocolate',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LANCO',
+    'Name': 'Chocolate Inn-Lanco',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'chotchkes',
+    'Name': 'Chotchkes',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'chotchkes,inc.',
+    'Name': 'Chotchkes, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'chulanipromotional',
+    'Name': 'Chulani Promotional Products Co',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'churchillcontainer',
+    'Name': 'Churchill Container',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'cimpress',
+    'Name': 'Cimpress',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'cipaq',
+    'Name': 'Cipaq',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'cityapparel',
+    'Name': 'City Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CLASSYGLASSINC',
+    'Name': 'Classy Glass Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'clerisy',
+    'Name': 'Clerisy',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'cleverprint',
+    'Name': 'CleverPrint',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'clientsfirstinc.',
+    'Name': 'Clients First Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'clothpromotionsplu',
+    'Name': 'Clothpromotions Plus',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'cloudswork',
+    'Name': 'cloudswork',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ClubColors',
+    'Name': 'Club Colors',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'clubcolors0',
+    'Name': 'Club Colors',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'cmp',
+    'Name': 'CMP Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CNIJINC',
+    'Name': 'CNIJ Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CNY',
+    'Name': 'CNY Tech Services',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'coasters',
+    'Name': 'Coaster Factory',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'COASTERSTONE',
+    'Name': 'CoasterStone',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'colemaxgroup',
+    'Name': 'Colemax group',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Color3',
+    'Name': 'Color 3',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'coloringbooksoluti',
+    'Name': 'Coloring Book Solutions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'commercepundit',
+    'Name': 'Commerce Pundit',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CSKU',
+    'Name': 'CommonSku',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'CompanyPromoStore',
+    'Name': 'CompanyPromoStore',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'Compass',
+    'Name': 'Compass',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'conceptpromotions',
+    'Name': 'Concept Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'concord',
+    'Name': 'Concord Marketing Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CONIMARCUSTOM',
+    'Name': 'Conimar Custom',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'consolidus',
+    'Name': 'Consolidus',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'continentalheadwea',
+    'Name': 'Continental Headwear',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CONTINENTALMARKETINGSERVICES',
+    'Name': 'Continental Marketing Services',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'continental',
+    'Name': 'Continental Plastic Card Co',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'COOPERCLEMENTINC',
+    'Name': 'Cooper & Clement, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'coreimagegroup',
+    'Name': 'Core Image Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CoreExpand',
+    'Name': 'CoreExpand',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'corporateidentitys',
+    'Name': 'Corporate Identity Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'corporategift.com',
+    'Name': 'corporategift.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'COSMOPROMOS',
+    'Name': 'Cosmo Promos',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'cosmostechnologies',
+    'Name': 'Cosmos Technologies, Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'cosmosesappareldes',
+    'Name': 'Cosmoses Apparel Designs, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CottonCandy',
+    'Name': 'Cotton Candy',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'COTTONLOVELLC',
+    'Name': 'Cotton Love LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'doyoupop',
+    'Name': 'Counter Point',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'coverdalegroup',
+    'Name': 'Coverdale Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'cre8tivewearllc',
+    'Name': 'Cre8tive Wear LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'cre8tivewearllc0',
+    'Name': 'Cre8tive Wear LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'creapub',
+    'Name': 'Creapub',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'createanapi',
+    'Name': 'CreateAnAPI',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'create',
+    'Name': 'CreateCo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'CREATIVEBRANDS',
+    'Name': 'Creative Brands',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'creativemerch',
+    'Name': 'CreativeMerch',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'cristauxinternatio',
+    'Name': 'Cristaux International',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'cross',
+    'Name': 'Cross',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'cruisinsportsinc',
+    'Name': 'Cruisin Sports Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'crystald',
+    'Name': 'Crystal D',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CRYSTALSENSATIONS',
+    'Name': 'Crystal Sensations',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CRYSTALWORLDINC',
+    'Name': 'Crystal World, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'csmscreenprinting',
+    'Name': 'CSM Screen Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'curtotoymfgcoltd',
+    'Name': 'Curto Toy Mfg Co Ltd',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'customchocolate,ll',
+    'Name': 'Custom Chocolate, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'customcollegiate',
+    'Name': 'custom collegiate',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'customcolorsolutio',
+    'Name': 'Custom Color Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'customearthpromos',
+    'Name': 'Custom Earth Promos',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'customink',
+    'Name': 'Custom Ink',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'customprintingii,l',
+    'Name': 'Custom Printing II, Ltd.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'customproductbuild',
+    'Name': 'Custom Product Builder',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'customshirtprints.',
+    'Name': 'Custom Shirt Prints.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'customcondoms.com',
+    'Name': 'CustomCondoms.com',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'customerfocus',
+    'Name': 'Customerfocus',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'Cutter',
+    'Name': 'Cutter & Buck',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'CUTTINGEDGE',
+    'Name': 'Cutting Edge Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'd3signarts',
+    'Name': 'D3SIGNARTS',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'dataforms',
+    'Name': 'Data Forms',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'datahere-to-there',
+    'Name': 'Data Here-to-There',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'dcm',
+    'Name': 'DCM',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'debco',
+    'Name': 'Debco Bag',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'decalcorama',
+    'Name': 'Decalcorama',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'decomerch',
+    'Name': 'DecoMerch',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'deco',
+    'Name': 'DecoNetwork',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'dekeo',
+    'Name': 'Dekeo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'DELREY',
+    'Name': 'Del Rey',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'DELTAAPPARELINC',
+    'Name': 'Delta Apparel, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Deluxe',
+    'Name': 'Deluxe',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'deluxecorporation',
+    'Name': 'Deluxe Corporation',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'designnbuy',
+    'Name': 'Design N Buy',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'DesignResourcesInc',
+    'Name': 'Design Resources Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'DOY',
+    'Name': 'Designs On You',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'detailproductsinc.',
+    'Name': 'Detail Products Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'detailproductsinc.0',
+    'Name': 'Detail Products Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'devara',
+    'Name': 'Devara',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'dezinecorpinc',
+    'Name': 'DezineCorp Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'dg3',
+    'Name': 'DG3',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'DGILINEINC',
+    'Name': 'dgiline, Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'DGROUPTREVELYAN',
+    'Name': 'DgroupTrevelyan',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'diamond',
+    'Name': 'Diamond T Design',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'diamondbackbrandin',
+    'Name': 'Diamondback Branding',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'digispec',
+    'Name': 'Digispec',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'digitalroomllc',
+    'Name': 'Digital Room LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'DISCOUNTLABELSINC',
+    'Name': 'Discount Labels, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'discountmarketingp',
+    'Name': 'Discount Marketing Products',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'discountprintedpro',
+    'Name': 'Discount Printed Promos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'discountmugs',
+    'Name': 'Discountmugs',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'discountmugs.com',
+    'Name': 'DiscountMugs.com',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'DC',
+    'Name': 'Distributor Central',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'DIXIESEALSTAMPCOINC',
+    'Name': 'Dixie Seal & Stamp Co., Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'DIXONTICONDEROGACO',
+    'Name': 'Dixon Ticonderoga Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'DNASwag',
+    'Name': 'DNA Swag Ltd',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'doinggoodworks',
+    'Name': 'Doing Good Works',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'DOLLARDAYSCOM',
+    'Name': 'DollarDays.com',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'domecmarketingllcd',
+    'Name': 'Domec Marketing LLC dba Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'doubleproductscomp',
+    'Name': 'Double Products Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'dppcreative',
+    'Name': 'DPP Creative',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'DRIDUCK',
+    'Name': 'DRIDUCK',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'drivemarketing',
+    'Name': 'Drive Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'drivemarketinggrou',
+    'Name': 'Drive Marketing Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'dtgnow',
+    'Name': 'DTG Now',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'dunbrooke',
+    'Name': 'Dunbrooke',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'dverseservices',
+    'Name': 'Dverse Services',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'dwellersllc',
+    'Name': 'Dwellers LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'dycpacificllc',
+    'Name': 'DYC Pacific LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'dynamicdrinkware',
+    'Name': 'Dynamic Drinkware',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'dynamic',
+    'Name': 'Dynamic The Shop',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'e.a.graphics',
+    'Name': 'E.A. Graphics',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'eaglepromotions',
+    'Name': 'Eagle Design',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'eagle',
+    'Name': 'Eagle Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'eblox',
+    'Name': 'eBlox',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ECPROMOSOLUTIONS',
+    'Name': 'EC Promo Solutions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'echelonsoftware',
+    'Name': 'Echelon Software',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ecompanystore',
+    'Name': 'ecompanystore',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ecorite',
+    'Name': 'Ecorite',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'edventurepromotion',
+    'Name': 'Edventure Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Edwards',
+    'Name': 'Edwards Garment',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'EGOIDINC',
+    'Name': 'Ego ID, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'egreenfees,incdbai',
+    'Name': 'EGREENFEES, INC DBA IMPACT LOGO PRODUCTS',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'eightleggedmedia',
+    'Name': 'Eight Legged Media',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'eisinger-smith,inc',
+    'Name': 'Eisinger-Smith, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'eleadpromo',
+    'Name': 'eLead Promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'elitegraphics',
+    'Name': 'Elite Graphics',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'emblematics,inc.',
+    'Name': 'Emblematics, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'embroidmecolleyvil',
+    'Name': 'EmbroidMe Colleyville',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'embroidmelenexa/fu',
+    'Name': 'EmbroidMe Lenexa/Fully Promoted Lenexa',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'emeraldinkandstitc',
+    'Name': 'Emerald Ink and Stitches',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'EMPIREPEN',
+    'Name': 'Empire Pen',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'emt0',
+    'Name': 'EMT',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'emt',
+    'Name': 'EMT',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'encorepromotions,i',
+    'Name': 'Encore Promotions, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'endgamemarketingso',
+    'Name': 'Endgame Marketing Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'endura',
+    'Name': 'endurapack',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ennis,inc.',
+    'Name': 'Ennis, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'enquiredigital',
+    'Name': 'Enquire Digital',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ensuenotechnologie',
+    'Name': 'Ensueno Technologies',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'enterpriseprints',
+    'Name': 'Enterprise Prints',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'EPOLYCORPORATION',
+    'Name': 'Epoly Corp.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'epromo',
+    'Name': 'epromos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'eps',
+    'Name': 'EPS',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'erbindustries,inc.',
+    'Name': 'ERB Industries, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'eRetailing',
+    'Name': 'eRetailing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'eRetailing',
+    'Name': 'eRetailing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'esalestechnologies',
+    'Name': 'eSales Technologies',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'espritdecorps',
+    'Name': 'Esprit De Corps',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'Essent',
+    'Name': 'Essent',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ethicalprofiling',
+    'Name': 'Ethical Profiling',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ETS',
+    'Name': 'ETS Express',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'EVANS',
+    'Name': 'Evans Manufacturing',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'eventoutfitters',
+    'Name': 'Event Outfitters',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'eventvision',
+    'Name': 'EventVision',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'eversolerun',
+    'Name': 'Eversole Run',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'everythingbranded',
+    'Name': 'Everything Branded',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'everythingwithink',
+    'Name': 'Everything With Ink',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'excelsystems',
+    'Name': 'Excel Systems',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'EXECUTIVEPRODUCTS',
+    'Name': 'Executive Products',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'express-a-button,i',
+    'Name': 'Express-A-Button, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'exquisiteimages',
+    'Name': 'Exquisite Images',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'sam',
+    'Name': 'eXtendTech',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'EYEBLACK2',
+    'Name': 'EyeBlack2',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'eyevertisingusa',
+    'Name': 'Eyevertising USA',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'FAC',
+    'Name': 'Facilisgroup',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'fanda',
+    'Name': 'Fanda Promo Factory',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'fan',
+    'Name': 'Fanfare Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'farfromboring',
+    'Name': 'FarFromBoring',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fastyetitees',
+    'Name': 'Fast Yeti Tees',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'fastbadge',
+    'Name': 'FastBadge',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'fdm4',
+    'Name': 'fdm4',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'fdm40',
+    'Name': 'FDM4',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'fey',
+    'Name': 'Fey Line, Mi Line, Reflectix, Magna-Tel ',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'fiel',
+    'Name': 'Fiel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'FAIRDEALIMPORTEXPORTLTD',
+    'Name': 'FIEL - Fairdeal Import & Export Ltd',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'fields',
+    'Name': 'Fields Manufacturing',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'financialinnovatio',
+    'Name': 'Financial Innovations, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fineawards,inc.',
+    'Name': 'Fine Awards, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'finngraphics,inc.',
+    'Name': 'Finn Graphics, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'firesign',
+    'Name': 'Firesign Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'flareapparelllc',
+    'Name': 'Flare Apparel LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'flexsystemsusainco',
+    'Name': 'FlexSystems USA Incorporated',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'flowz',
+    'Name': 'Flowz',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'foamworx',
+    'Name': 'Foamworx',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'FOOTPRINTSUSA',
+    'Name': 'Footprints USA',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'formulatedigital',
+    'Name': 'Formulate Digital',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'fossaapparel,inc.',
+    'Name': 'Fossa Apparel, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'four51',
+    'Name': 'four51',
+    'Type': 'Service Provider'
+}
+{
+    'Code': '4stateprinting',
+    'Name': 'Fourstate Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fpwmedia0',
+    'Name': 'FPW Media',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'fpwmedia',
+    'Name': 'FPW Media',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'FRANMARAINC',
+    'Name': 'Franmara, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'frontlineconsultin',
+    'Name': 'Frontline Consulting',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'fullypromoted00',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted0000000',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted000',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted0000000',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted0',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted00000',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted0000',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted0000000',
+    'Name': 'Fully Promoted',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'fullypromoted000000',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted0000000',
+    'Name': 'Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted-flow',
+    'Name': 'Fully Promoted - Flower Mound',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted-lene',
+    'Name': 'Fully Promoted - Lenexa',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted-mcal',
+    'Name': 'Fully Promoted - McAllen',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted-waus',
+    'Name': 'Fully Promoted - Wausau',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedbarri',
+    'Name': 'Fully Promoted Barrie',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedbedfo',
+    'Name': 'Fully Promoted Bedford',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedbethe0',
+    'Name': 'Fully Promoted Bethesda',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedbethe',
+    'Name': 'Fully Promoted Bethesda',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedblues',
+    'Name': 'Fully Promoted Blue Springs',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedbrook',
+    'Name': 'Fully Promoted Brooks',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedburli',
+    'Name': 'Fully Promoted Burlington',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedcanad',
+    'Name': 'Fully Promoted Canada',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoteddavie',
+    'Name': 'Fully Promoted Davie',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedfresn',
+    'Name': 'Fully Promoted Fresno',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedglene',
+    'Name': 'Fully Promoted Glen Ellyn',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedgrand',
+    'Name': 'Fully Promoted Grand Rapids',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedidaho',
+    'Name': 'Fully Promoted Idaho',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedlethb',
+    'Name': 'Fully Promoted Lethbridge',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedmilfo',
+    'Name': 'Fully Promoted Milford Ct',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedmyrtl',
+    'Name': 'Fully Promoted Myrtle Beach',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotednebir',
+    'Name': 'Fully Promoted NE Birmingham',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofand',
+    'Name': 'Fully Promoted of Andover/Tewksbury',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofbel',
+    'Name': 'Fully Promoted of Bel Air',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofcan',
+    'Name': 'Fully Promoted of Canton',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofcen',
+    'Name': 'Fully Promoted of Centerville',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofcha',
+    'Name': 'Fully Promoted of Charlotte (South)',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofdec',
+    'Name': 'Fully Promoted of Decatur',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedoffis',
+    'Name': 'Fully Promoted of Fishers',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofjup',
+    'Name': 'Fully Promoted of Jupiter',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofken',
+    'Name': 'Fully Promoted of Kendall',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofmag',
+    'Name': 'Fully Promoted of Magnolia',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofmag0',
+    'Name': 'Fully Promoted of Magnolia Tx',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofmem',
+    'Name': 'Fully Promoted of Memphis East',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofmem0',
+    'Name': 'Fully Promoted of Memphis East',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofmia',
+    'Name': 'Fully Promoted of Miami Lakes',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofsal',
+    'Name': 'Fully Promoted of Salem',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofsol',
+    'Name': 'Fully Promoted of Solana Beach',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofsou',
+    'Name': 'Fully Promoted of South Tampa',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofstc',
+    'Name': 'Fully Promoted of St Charles',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofswk',
+    'Name': 'Fully Promoted of SWKS',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedofver',
+    'Name': 'Fully Promoted of Vero Beach',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedpalmc',
+    'Name': 'Fully Promoted Palm City',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedpalmc0',
+    'Name': 'Fully Promoted Palm City, FL',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedpeori',
+    'Name': 'Fully Promoted Peoria',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedpeter',
+    'Name': 'Fully Promoted Peterborough',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedscher',
+    'Name': 'Fully Promoted Schertz',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedscott',
+    'Name': 'Fully Promoted Scottsdale',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedsouth',
+    'Name': 'Fully Promoted South Tampa',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedst.ch',
+    'Name': 'Fully Promoted St. Charles, MO',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedswks',
+    'Name': 'Fully Promoted SWKS',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedtowso',
+    'Name': 'Fully Promoted Towson',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedtrini',
+    'Name': 'Fully Promoted Trinidad',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedtulsa',
+    'Name': 'Fully Promoted Tulsa',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedunion',
+    'Name': 'Fully Promoted Uniondale',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedwestv',
+    'Name': 'Fully Promoted West Valley',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromoted,milf',
+    'Name': 'Fully Promoted, Milford',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fullypromotedconro',
+    'Name': 'FullyPromoted  Conroe',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'fuzemediagroupinc',
+    'Name': 'FUZE Media Group INC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'gaincafe',
+    'Name': 'Gaincafe',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'galaxy',
+    'Name': 'Galaxy Balloon',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'garmentdecor',
+    'Name': 'Garment Decor',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Gary',
+    'Name': 'Garyline',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Gateway',
+    'Name': 'Gateway CDI',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'gavinaink',
+    'Name': 'Gavina Ink',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'gbag',
+    'Name': 'Gbag',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'gbgthecorporategif',
+    'Name': 'GBG THE CORPORATE GIFT SOURCE, INC.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'gcapparelinc.',
+    'Name': 'GC Apparel Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'gearflow',
+    'Name': 'gearflow',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'gearmentllc',
+    'Name': 'Gearment LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'gearone',
+    'Name': 'GearOne',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Geiger',
+    'Name': 'Geiger',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'GEMINIINDUSTRIESINC',
+    'Name': 'Gemini Industries, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'GEM',
+    'Name': 'Gemline',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Gempire',
+    'Name': 'Gempire',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'genumark',
+    'Name': 'Genumark',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Gill',
+    'Name': 'Gill Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'gimmickcompany,s.a',
+    'Name': 'Gimmick Company, S.A.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'girlinghouseunlimi0',
+    'Name': 'Girlinghouse Unlimited, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'girlinghouseunlimi',
+    'Name': 'Girlinghouse Unlimited, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'gbsusa',
+    'Name': 'Global Branded Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'globalenterprises',
+    'Name': 'Global Enterprises',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'globalpromo',
+    'Name': 'Global Promo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'goproltd.',
+    'Name': 'Go Pro Ltd.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'go2partners',
+    'Name': 'GO2 Partners',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'go2cap',
+    'Name': 'go2cap',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Gold',
+    'Name': 'Gold Bond Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'goldenpacific',
+    'Name': 'GOLDEN PACIFIC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Gold',
+    'Name': 'Goldner Associates',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'goldstar',
+    'Name': 'Goldstar',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'golfteeprinters',
+    'Name': 'Golf Tee Printers',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Gordon',
+    'Name': 'Gordon Sinclair',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'graficsparadise',
+    'Name': 'Grafics Paradise',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'grandflow',
+    'Name': 'Grandflow',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'graphcoline',
+    'Name': 'Graphco Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'graphicconnections',
+    'Name': 'Graphic Connections, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'graphik',
+    'Name': 'Graphik',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'graphik',
+    'Name': 'Graphik Promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'graphixide',
+    'Name': 'Graphixide',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'grassrootsbranding',
+    'Name': 'GrassRoots Branding Agency',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'greatonlinepromoti',
+    'Name': 'Great Online Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'greatvaluepromo',
+    'Name': 'Great Value Promos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'greenapplications',
+    'Name': 'Green Applications',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'greenleafprocureme',
+    'Name': 'Green Leaf Procurement',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'greenmonsterpromot',
+    'Name': 'green monster promotions LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'gregv@vortexsoft.c',
+    'Name': 'Gregv@vortexsoft.com',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'guangzhouyoupinpri',
+    'Name': 'Guangzhou Youpin Printing Co., Ltd',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'guardianproducts',
+    'Name': 'Guardian Products',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'guardianproducts,i0',
+    'Name': 'Guardian Products, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'guardianproducts,i',
+    'Name': 'Guardian Products, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'gwm',
+    'Name': 'gwm',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Halo',
+    'Name': 'Halo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'HandStands',
+    'Name': 'Hand Stands',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'handstand',
+    'Name': 'Handstand Promo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'HANSMANUFACTURERINC',
+    'Name': 'Hans Manufacturer Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'harland',
+    'Name': 'harland clarke',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'Harland',
+    'Name': 'Harland Clarke',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'harvey',
+    'Name': 'Harvey',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'hatcointernational',
+    'Name': 'Hatco International',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'hatcointernational0',
+    'Name': 'Hatco International',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'hds',
+    'Name': 'HDS',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'headwearusa',
+    'Name': 'Headwear USA',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'hgxcreative',
+    'Name': 'HGX Creative',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'hhp-helpinghandpar0',
+    'Name': 'HHP helping hand partners',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'HiCaliber',
+    'Name': 'High Caliber Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'HIGHTECHGRAFIXINC',
+    'Name': 'Hightech Grafix, Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Hirsch',
+    'Name': 'Hirsch Gift',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'HIT',
+    'Name': 'HIT Promotional Products',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'hiteuniform',
+    'Name': 'Hite Uniform',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mints',
+    'Name': 'Hospitality Mints',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'hostedweb',
+    'Name': 'hosted web',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'hotsauceharrysinc.',
+    'Name': 'Hot Sauce Harrys Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'hotprints',
+    'Name': 'HOTPRINTS',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'houseofimprints',
+    'Name': 'House Of Imprints',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'HOWARDMILLERCO',
+    'Name': 'Howard Miller Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'howwmanufacturingc',
+    'Name': 'HOWW Manufacturing Co. Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'httheadwearandappa',
+    'Name': 'HTT Headwear and Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Hub',
+    'Name': 'Hub Pen',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'hygobranding',
+    'Name': 'HYGO Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'HYPROLINELLC',
+    'Name': 'Hyproline, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'i-mark',
+    'Name': 'I-Mark',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'iClick',
+    'Name': 'iClick',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'icostore',
+    'Name': 'iCoStore',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'IDLINE',
+    'Name': 'ID Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ideastage',
+    'Name': 'Ideastage',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ideationpromotions',
+    'Name': 'Ideation Promotions & Apparel',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'identitylinks',
+    'Name': 'Identity Links',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'idworks',
+    'Name': 'Identity Works',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'idproductsource',
+    'Name': 'IDProductsource',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'idworks0',
+    'Name': 'Idworks',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'illini',
+    'Name': 'Illini',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'illinoisglove',
+    'Name': 'Illinois Glove Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'imagesolutions',
+    'Name': 'Image Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Imagen',
+    'Name': 'Imagen Brands',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'imagination',
+    'Name': 'Imagination Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'imarcom',
+    'Name': 'Imarcom',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'impactactiongolfco',
+    'Name': 'Impact Action Golf Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'impactdimensions',
+    'Name': 'Impact Dimensions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'impactswag',
+    'Name': 'ImpactSwag',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'imperial',
+    'Name': 'Imperial Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'impressme',
+    'Name': 'Impress Me',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'imprintengine',
+    'Name': 'Imprint Engine',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'imprintengine0',
+    'Name': 'Imprint Engine',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'imprintgenius',
+    'Name': 'Imprint Genius',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'imprintid',
+    'Name': 'imprintID',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'imprintid0',
+    'Name': 'imprintID',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'imprintio',
+    'Name': 'imprintio',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'inyourfaceapparel',
+    'Name': 'In Your Face Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'InDepth',
+    'Name': 'Indepth Graphics',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'infosourcinginc',
+    'Name': 'InfoSourcing Inc',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ink',
+    'Name': 'Inkhead',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'inkmulellc',
+    'Name': 'InkMule LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'inkpressions00',
+    'Name': 'Inkpressions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'inkpressions0',
+    'Name': 'Inkpressions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'inkpressions',
+    'Name': 'Inkpressions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Inksoft',
+    'Name': 'Inksoft',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'inksoft0',
+    'Name': 'InkSoft',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'inkwellglobalmarke',
+    'Name': 'Inkwell Global Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'inkwellglobalmarke0',
+    'Name': 'Inkwell Global Marketing',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'innov',
+    'Name': 'Innov Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'innovation',
+    'Name': 'Innovation Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'INNOVATIVEDESIGNSINC',
+    'Name': 'Innovative Designs, Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'innovativemarketin',
+    'Name': 'Innovative Marketing & Design',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'inspiremarketingse',
+    'Name': 'Inspire Marketing Services',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'inspire',
+    'Name': 'inspire marketing services',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'instentindustries',
+    'Name': 'Instent Industries',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'instylesoftware,in',
+    'Name': 'InStyle Software, Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'intandempromotions',
+    'Name': 'InTandem Promotions, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'INTELLIGENTGALAXYLLC',
+    'Name': 'Intelligent Galaxy LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'inclothiers',
+    'Name': 'International Clothiers',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'internationalmerch',
+    'Name': 'International Merchandise Concepts',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'inventry',
+    'Name': 'Inventry',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ipersonalyze',
+    'Name': 'iPersonalyze',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ipgglobalmarketing',
+    'Name': 'IPG Global Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ipromo0',
+    'Name': 'iPromo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ipromo',
+    'Name': 'iPromo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ipromo,llc',
+    'Name': 'iPromo, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'iPROMOTEu',
+    'Name': 'iPROMOTEu',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ipromoteu0',
+    'Name': 'iPROMOTEu',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'islo',
+    'Name': 'Islo',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'isourceworldwide',
+    'Name': 'iSource Worldwide',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'itagroup',
+    'Name': 'ITA Group',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'j&link',
+    'Name': 'J&L INK',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'jairubni,llc',
+    'Name': 'Jairubni, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'JAYPLASTICSPACKAGINGINC',
+    'Name': 'Jay Plastics & Packaging, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'jbpromotions',
+    'Name': 'JB Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'jbpromotions0',
+    'Name': 'JB Promotions',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'JCharles',
+    'Name': 'JCharles',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'jcwsoftware',
+    'Name': 'JCW Software',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'JET',
+    'Name': 'Jetline',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'JHSpecialty',
+    'Name': 'JH Specialty',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'jimcoleman,ltd.',
+    'Name': 'Jim Coleman, Ltd.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'jjdata',
+    'Name': 'JJ Data',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'JMA',
+    'Name': 'JMA Logos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'nadel',
+    'Name': 'JNI',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'JOMARINDUSTRIESINC',
+    'Name': 'Jomar Industries, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'jordalinc.',
+    'Name': 'Jordal inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'jornikmfgcorp0',
+    'Name': 'Jornik MFG Corp',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'JOURNALBOOKSTIMEPLANNER',
+    'Name': 'Journalbooks/Timeplanner',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'jspaluch',
+    'Name': 'JS Paluch',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'jspaluchinc',
+    'Name': 'JS Paluch Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'judgepromo',
+    'Name': 'Judge Promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'juicemarketing',
+    'Name': 'Juice Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'jypromoinc',
+    'Name': 'JY PROMO INC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'KB',
+    'Name': 'Kaeser & Blair',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'kanatablanketco.',
+    'Name': 'Kanata Blanket Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'KDKANOPY',
+    'Name': 'KD Kanopy',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'KEEPSAKEPRODUCTSUSA',
+    'Name': 'Keepsake Products USA',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'kel',
+    'Name': 'Kel Graphics',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'kevins',
+    'Name': 'Kevins World Wide',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'kevinsworldwide0',
+    'Name': 'Kevins Worldwide',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'kevinsworldwide',
+    'Name': 'Kevins Worldwide',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'keyinnovationsinc.',
+    'Name': 'Key Innovations Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'keypartnersolution',
+    'Name': 'Key Partner Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'keybak',
+    'Name': 'Key-Bak Promotional Products',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'keystone',
+    'Name': 'Keystone',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'keystoneadvertisin',
+    'Name': 'Keystone Advertising Specialties',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'kipmark',
+    'Name': 'Kipmark',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'kjgroupllc',
+    'Name': 'KJ Group LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': "knaack'sadvertisin",
+    'Name': "Knaack's Advertising",
+    'Type': 'Distributor'
+}
+{
+    'Code': 'knotforgotten',
+    'Name': 'KNOT FORGOTTEN',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'konaprinting',
+    'Name': 'Kona Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'koolgator,llc',
+    'Name': 'KOOLGATOR, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'BIC',
+    'Name': 'Koozie Group',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'kotis',
+    'Name': 'Kotisdesign',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'krazecustomprints',
+    'Name': 'KRAZE Custom Prints',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'KREBSPROMOTIONALPRODUCTS',
+    'Name': 'Krebs Promotional Products',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'KROSSINC',
+    'Name': 'Kross Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'KTINETWORKSKTIPROMO',
+    'Name': 'KTI Networks / KTI Promo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'landlpromos',
+    'Name': 'L and L Promos',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'lawebdevelopmentfi',
+    'Name': 'LA Web Development Firm',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'lamarpromo0',
+    'Name': 'LamarPromo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'lamarpromo',
+    'Name': 'LamarPromo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'lamontbrandsinc',
+    'Name': 'Lamont Brands Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'landau',
+    'Name': 'Landau',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'landsend',
+    'Name': 'Lands End',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LAPCOMFG',
+    'Name': 'Lapco Mfg',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LarLu',
+    'Name': 'LarLu',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LASERCREATIONSBYIDENTIFICATIONSYSTEMS',
+    'Name': 'Laser Creations By Identification Systems',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'lastingimpressions',
+    'Name': 'Lasting Impressions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'latapparel',
+    'Name': 'LAT Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'launchpad',
+    'Name': 'Launchpad',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'leadapparel',
+    'Name': 'Lead Apparel',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'leaderpromos',
+    'Name': 'Leaderpromos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'leprechaun',
+    'Name': 'Leprechaun Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'limelight',
+    'Name': 'LimeLight',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'limewear',
+    'Name': 'Limewear',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'lincolnline',
+    'Name': 'Lincoln Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'lioncircle',
+    'Name': 'Lion Circle',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'lionchest,llc',
+    'Name': 'LionChest, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LIQUIMARKCORPORATION',
+    'Name': 'Liqui-Mark Corporation',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'littlebirdprintco',
+    'Name': 'Little Bird Print Co',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'littlemountainprin',
+    'Name': 'Little Mountain Printing',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'livingproofcreativ',
+    'Name': 'Living Proof Creative',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'logicalpromotions',
+    'Name': 'logical promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'logoboss',
+    'Name': 'Logo Boss',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'LogoExpressions',
+    'Name': 'Logo Expressions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'logoincluded',
+    'Name': 'Logo Included',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LOGOMATSLLC',
+    'Name': 'Logo Mats, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LogoFactor',
+    'Name': 'LogoFactor',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'logolenses',
+    'Name': 'Logolenses',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LOGOLINENS',
+    'Name': 'LogoLinens',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LMRK',
+    'Name': 'Logomark',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'logostars',
+    'Name': 'LogoStars',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'logotech',
+    'Name': 'logotech',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'LogoUp',
+    'Name': 'LogoUp',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'lungsal',
+    'Name': 'Lungsal',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'macspecialtiesltd.',
+    'Name': 'MAC Specialties Ltd.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'madeyoulookmarketi',
+    'Name': 'Made You Look Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'madetoorder,inc.',
+    'Name': 'MadeToOrder, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'MAGNETAMERICA',
+    'Name': 'Magnet America',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'MAKANALINELLC',
+    'Name': 'Makana Line LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'makeitmerchbyjasmi',
+    'Name': 'MakeitMerch by Jasmine Lee',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mandlisinformatics',
+    'Name': 'Mandlis Informatics',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'Mantralogix',
+    'Name': 'Mantralogix',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'MANUFACTURERSDIRECTSALESINC',
+    'Name': 'Manufacturers Direct Sales Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'MapleRidge',
+    'Name': 'Maple Ridge',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'marchesinienterpri',
+    'Name': 'MarchesiniEnterprises',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'marcopromosllc',
+    'Name': 'MARCO Promos LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'marketsolutionsgro',
+    'Name': 'Market Solutions Group, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'marketingideascali',
+    'Name': 'Marketing Ideas California Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'marketingincentive',
+    'Name': 'Marketing Incentive Resources',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'masaladvertising',
+    'Name': 'MASAL ADVERTISING',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'matrixmarketers',
+    'Name': 'Matrix Marketers',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'maverickprinting',
+    'Name': 'Maverick Printing',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'maxwell',
+    'Name': 'Maxwell Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mbmadvertising',
+    'Name': 'MBM Advertising',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mcc',
+    'Name': 'MCC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'mccabe',
+    'Name': 'McCabe Promotional',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mccallaenterpirise',
+    'Name': 'McCalla Enterpirises, LLC. DBA Fully Promoted of Webster',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mcloughlinpromotio',
+    'Name': 'McLoughlin Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'MDC Shop',
+    'Name': 'MDC Shop',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'MEDIAGRAPHICSCOMINC',
+    'Name': 'Mediagraphics.com, Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'megataxi',
+    'Name': 'Mega Taxi',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'MEGAFAST',
+    'Name': 'Megafast',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'megkayretailllcdba',
+    'Name': 'MegKay Retail LLC dba Office Ink Plus',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'merchdirect',
+    'Name': 'Merch Direct',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'merchdirect0',
+    'Name': 'Merch Direct',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'merchology',
+    'Name': 'Merchology',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'metronbranding',
+    'Name': 'Metron Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'MD',
+    'Name': 'Meyer Dunlap',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mgs',
+    'Name': 'MGS',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'miamedia',
+    'Name': 'MIA Media',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'michaelwalkeradver',
+    'Name': 'Michael Walker Advertising',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'midnitesnax',
+    'Name': 'MidNite Snax',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'milestonerecogniti',
+    'Name': 'Milestone Recognition',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'MINERALSPRINGSBOTTLEDWATERCO',
+    'Name': 'Mineral Springs Bottled Water Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'minutemanpress',
+    'Name': 'Minuteman Press',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'missionbelt',
+    'Name': 'Mission Belt',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mkscreenprinting',
+    'Name': 'MK Screen Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mlibusiness,llc',
+    'Name': 'MLI BUSINESS, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mmiinternationaltr',
+    'Name': 'MMI INTERNATIONAL TRADE (MMI Line)',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Glass',
+    'Name': 'Moderne Glass',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'modernizel.l.c.',
+    'Name': 'Modernize L.L.C.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'monogramit',
+    'Name': 'Monogram It',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'montereycompany',
+    'Name': 'monterey company',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'monumentlimited',
+    'Name': 'Monument Limited',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'MORCOINC',
+    'Name': 'Morco, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'morrismagnets0',
+    'Name': 'Morris Magnets',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'morrismagnets',
+    'Name': 'Morris Magnets',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Motivators',
+    'Name': 'Motivators',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'MOVEINMEDIA',
+    'Name': 'Move In Media',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'mpowerpromoinc',
+    'Name': 'MPower Promo Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'MSLLINEINC',
+    'Name': 'MSL Line Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'mvosscreationllc',
+    'Name': 'MVOSS Creation LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mycompanyapparel',
+    'Name': 'My Company Apparel',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mygreenbag',
+    'Name': 'My Green Bag',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mynextpromo',
+    'Name': 'My Next Promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mypromonow',
+    'Name': 'My Promo Now',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'mypromopens',
+    'Name': 'My Promo Pens',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'myepkmedia',
+    'Name': 'myEPK Media',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'Myron',
+    'Name': 'Myron',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'NAJC',
+    'Name': 'NAJC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Nalpro',
+    'Name': 'Nalpro',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'namify',
+    'Name': 'Namify',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Nanza',
+    'Name': 'Nanza, Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'napcomedia',
+    'Name': 'Napco Media',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Pens',
+    'Name': 'National Pen',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'NATURALTRENDSLLC',
+    'Name': 'Natural Trends, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'nellacosacorp',
+    'Name': 'Nella Cosa Corp',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'nerdinashirt',
+    'Name': 'Nerd in a Shirt',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'newrelic',
+    'Name': 'New Relic',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'newellpromotionalp',
+    'Name': 'Newell Promotional Products (Formally Sanford B2B)',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Next',
+    'Name': 'Next Products',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'NEXTPROMOTIONSLLC',
+    'Name': 'Next Promotions, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'nicethreads,llc',
+    'Name': 'Nice Threads, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'nolinbposervices',
+    'Name': 'Nolin BPO Services',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'norscotgroup,inc.',
+    'Name': 'Norscot Group, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'northstarstitch',
+    'Name': 'Northstar Stitch',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'NUPROMOINTERNATIONAL',
+    'Name': 'Nu Promo International',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'numo',
+    'Name': 'Numo Mfg',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ob0',
+    'Name': 'OB',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'obtim',
+    'Name': 'OBTIM',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'obvibranding',
+    'Name': 'Obvious Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ochsenbinecustomap',
+    'Name': 'Ochsenbine Custom Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'oddballmediagroup',
+    'Name': 'Oddball Media Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'odds',
+    'Name': 'ODDS',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'OB',
+    'Name': 'Office Beacon',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'OB',
+    'Name': 'Office Beacon',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'officeeaselpromoti',
+    'Name': 'Office Easel Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'officebrain',
+    'Name': 'OfficeBrain',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'olympiapromotions',
+    'Name': 'Olympia Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'OMNI',
+    'Name': 'Omni/Zorrel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'omnisourcemarketin',
+    'Name': 'OmniSource Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'onlocationmaarketi',
+    'Name': 'On Location Maarketing',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'onepointinc.',
+    'Name': 'One Point Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'onestopinc.',
+    'Name': 'One Stop Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'opentshirts',
+    'Name': 'OpenTshirts',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'optamark',
+    'Name': 'optamark',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'orbitmediastudios',
+    'Name': 'Orbit Media Studios',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'orbus',
+    'Name': 'Orbus',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'orderdesk@garmentg',
+    'Name': 'orderdesk@garmentgraphics.net',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ordermygear',
+    'Name': 'OrderMyGear',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'orderwrite',
+    'Name': 'OrderWrite',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'origaudio',
+    'Name': 'Origaudio',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'osiconsulting',
+    'Name': 'OSI Consulting',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'OTTO',
+    'Name': 'OTTO Cap',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'outdoorcap',
+    'Name': 'Outdoor Cap',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'outdoorcapco.',
+    'Name': 'Outdoor Cap Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'outfityourlogo',
+    'Name': 'Outfit Your Logo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Overture',
+    'Name': 'Overture',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'overturedisplays',
+    'Name': 'Overture Displays',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'p&hbusinessforms',
+    'Name': 'P&H Business Forms',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'P2Promo',
+    'Name': 'P2Promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'p3agency',
+    'Name': 'P3 Agency',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'p3inc',
+    'Name': 'P3 Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'pacesetterawards',
+    'Name': 'Pacesetter Awards',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'PACIFICBUSINESS',
+    'Name': 'PACIFIC BUSINESS',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pagodateefashion',
+    'Name': 'Pagoda Tee Fashion',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'panamericangraphic',
+    'Name': 'Pan American Graphic, Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'parone,inc.',
+    'Name': 'Par One, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'paramountapparelin',
+    'Name': 'Paramount Apparel International, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'paramountprintingl',
+    'Name': 'Paramount Printing LLC dba Mighty Moose',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Parsonskellogg',
+    'Name': 'ParsonsKellogg',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Straub',
+    'Name': 'PAW Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'paylessofficeprodu',
+    'Name': 'Payless Office Products',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'pbpgloballlc',
+    'Name': 'PBP GLobal LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'pcnametag',
+    'Name': 'PC/NAMETAG',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PCNA',
+    'Name': "PCNA (Leed's/Bullet/Trimark)",
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pdlpromo,llc',
+    'Name': 'PDL Promo, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'pdlpromo,llc0',
+    'Name': 'PDL Promo, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Peerless',
+    'Name': 'Peerless Umbrella',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pellaproducts,inc.',
+    'Name': 'Pella Products, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pencaptain',
+    'Name': 'Pen Captain',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pentelofamerica,lt',
+    'Name': 'Pentel of America, Ltd.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pepcopromotional',
+    'Name': 'Pepco Promotional',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pepwear,llc',
+    'Name': 'PepWear, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'percivalladvertisi',
+    'Name': 'Percivall Advertising',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'perfectetch',
+    'Name': 'Perfect Etch',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'perfectforpromotio',
+    'Name': 'Perfect for promotion',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Perfect',
+    'Name': 'Perfect Imprints',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'perfectimprints',
+    'Name': 'Perfect Imprints',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'perry',
+    'Name': 'Perry Ellis International/Callaway',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pfl',
+    'Name': 'PFL',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'physxpromotions,in',
+    'Name': 'Physx Promotions, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PIC',
+    'Name': 'PIC Business Systems',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'picnictimefamilyof',
+    'Name': 'PICNIC TIME FAMILY OF BRANDS',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'picnictimefamilyof0',
+    'Name': 'Picnic Time Family of Brands',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pilotcorporationof',
+    'Name': 'Pilot Corporation of America',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pilotcorporationof0',
+    'Name': 'Pilot Corporation of America',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ping',
+    'Name': 'Pingline',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'PINLINE',
+    'Name': 'PinLine',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pinnacle',
+    'Name': 'Pinnacle Designs',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pinnacledesigns',
+    'Name': 'Pinnacle Designs',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Pinnacle',
+    'Name': 'Pinnacle Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PIN',
+    'Name': 'Pinnacle Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PINNOVATIVEDESIGNS',
+    'Name': 'Pinnovative Designs',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pinpoint',
+    'Name': 'Pinpoint',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'pioneerballooncomp',
+    'Name': 'Pioneer Balloon Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pkpromotions',
+    'Name': 'PK Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'plaidypus',
+    'Name': 'Plaidypus',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PlanetLogo',
+    'Name': 'Planet Logo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'plaquemakerplus,in',
+    'Name': 'PlaqueMaker Plus, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'platinummarketingp',
+    'Name': 'Platinum Marketing Products LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'PLAYINGCARDSONDEMAND',
+    'Name': 'Playing Cards on Demand',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'plexkeypromotional',
+    'Name': 'PlexKey Promotional Marketing Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'pmgoa0',
+    'Name': 'PMGOA',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pmgoa',
+    'Name': 'pmgoa',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'pocketmaps',
+    'Name': 'PocketMaps',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'pointmatrixitservi',
+    'Name': 'PointMatrix IT Services',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'polarpromotionsltd',
+    'Name': 'Polar Promotions LTD',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'polypak',
+    'Name': 'Poly-Pak Industries',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'portagepromo',
+    'Name': 'Portage Promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'positivepromotions',
+    'Name': 'Positive Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'posy,llc',
+    'Name': 'Posy, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'POWERSTICK',
+    'Name': 'Powerstick',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'powerweave0',
+    'Name': 'Powerweave',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'powerweave000',
+    'Name': 'Powerweave',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'powerweave00',
+    'Name': 'Powerweave',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'powerweave',
+    'Name': 'Poweweave',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'premierbrandingsol',
+    'Name': 'Premier Branding Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'premiumconnection',
+    'Name': 'Premium Connection',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PRESTIGEIMPORTGROUP',
+    'Name': 'Prestige Import Group',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'prestigeprinting&s',
+    'Name': 'Prestige Printing & Signs',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'priceitsoftware',
+    'Name': 'PriceIt Software',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'priceitsoftware0',
+    'Name': 'PriceIt Software',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'primedesigns',
+    'Name': 'Prime Designs',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'PRIME',
+    'Name': 'Primeline-Jetline',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'PRINTNEXPRESS',
+    'Name': 'PRINT N EXPRESS',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'PRINTEDINSTONE2',
+    'Name': 'Printed in Stone 2',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'printfection',
+    'Name': 'Printfection',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'printingnest',
+    'Name': 'Printing Nest',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'progolfpremiums,in',
+    'Name': 'Pro Golf Premiums, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'PROCELEBRITY',
+    'Name': 'Pro-Celebrity',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'PROTECTMANUFACTURING',
+    'Name': 'Pro-Tect Manufacturing',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Proforma',
+    'Name': 'Proforma ',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'progresspromotiona',
+    'Name': 'Progress Promotional Products',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'proimprint',
+    'Name': 'ProImprint',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'proletesportswear',
+    'Name': 'Prolete Sportswear',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promodepot',
+    'Name': 'Promo Depot',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promoplanet',
+    'Name': 'promo planet',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promoretailer',
+    'Name': 'Promo Retailer',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'promoshop',
+    'Name': 'Promo Shop',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promostylist',
+    'Name': 'Promo Stylist',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promobullit',
+    'Name': 'PromoBullit',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'promocatalyst',
+    'Name': 'PromoCatalyst',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'PromoCorner',
+    'Name': 'PromoCorner',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'PromoDealer',
+    'Name': 'Promodealer',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PromoEQP',
+    'Name': 'PromoEQP',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'promogator',
+    'Name': 'promogator',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PG',
+    'Name': 'PromoGroup',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promohunt,inc.',
+    'Name': 'PromoHunt, Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'promohunt,inc.0',
+    'Name': 'PromoHunt, Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'promoleafllc',
+    'Name': 'PromoLeaf LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promolocker',
+    'Name': 'Promolocker',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PROMOMATTINGBYAMERICO',
+    'Name': 'PromoMatting By Americo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'PROMOPET',
+    'Name': 'PROMOPET',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'promoproducts.io',
+    'Name': 'PromoProducts.io',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'promopulse',
+    'Name': 'PromoPulse',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'promoswithimprint,',
+    'Name': 'Promos With Imprint, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promosherpa',
+    'Name': 'PromoSherpas',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PROMOSKYGIFTSINC',
+    'Name': 'Promosky Gifts Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Stadium',
+    'Name': 'PromoStadium',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promostandards',
+    'Name': 'PromoStandards',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'PROMOTEKINC',
+    'Name': 'Promotek, Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'promotionpros',
+    'Name': 'Promotion Pros',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PConsult',
+    'Name': 'Promotional Consultants',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'gpromo',
+    'Name': 'Promotional Gifts USA',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promotionalpartner',
+    'Name': 'Promotional Partners, LLC    dba: Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promotionstornade',
+    'Name': 'Promotions Tornade',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promotionstornade0',
+    'Name': 'Promotions Tornade',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promotionstornade00',
+    'Name': 'Promotions Tornade',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promovisionpowered',
+    'Name': 'PROMOVISION powered by Brady',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'proroseinc.',
+    'Name': 'ProRose Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'prostyle',
+    'Name': 'Prostyle',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ProTowels',
+    'Name': 'ProTowels',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'psaworldwide,llc',
+    'Name': 'PSA Worldwide, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'psi',
+    'Name': 'PSI',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'PurePromo',
+    'Name': 'Pure Promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'PWS',
+    'Name': 'PWS',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'q3technologies',
+    'Name': 'Q3technologies',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'qpromo',
+    'Name': 'Qpromo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'qpromo0',
+    'Name': 'QPromo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'qpromoo',
+    'Name': 'Qpromo.com',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'quakecitycaps',
+    'Name': 'Quake City Caps',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'qualitscreeninginc',
+    'Name': 'Quali T Screening Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'QLP',
+    'Name': 'Quality Logo Products',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'queensboro',
+    'Name': 'Queensboro',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'QUICKPRINTLINE',
+    'Name': 'Quickprint Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'quickey',
+    'Name': 'Quikey Manufacturing, Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'QUINN',
+    'Name': 'Quinn',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'r&lprintingservice',
+    'Name': 'R & L Printing Services',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'racadtechinc.',
+    'Name': 'Racad Tech Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'rachinc.',
+    'Name': 'Rach Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Radius',
+    'Name': 'Radius Marketing Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'RAINBOWSYMPHONYINC',
+    'Name': 'Rainbow Symphony, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'RainingRose',
+    'Name': 'Raining Rose',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Razor',
+    'Name': 'Razor Consulting Solutions',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'rcbawards',
+    'Name': 'RCB Awards',
+    'Type': 'Distributor'
+}
+{
+    'Code': 're-northamerica',
+    'Name': 'Re-North America',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'READY4KITS',
+    'Name': 'Ready 4 Kits',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'rebeccawardlowdigi',
+    'Name': 'Rebecca Wardlow Digital',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'recobrands',
+    'Name': 'Reco Brands',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'redlettercommunica',
+    'Name': 'Red Letter Communications',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'REDMARKETINGSERVICE',
+    'Name': 'Red Marketing Service',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'RedSpark',
+    'Name': 'Red Spark',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'redtitanoutdoors',
+    'Name': 'Red Titan Outdoors',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'redtitanoutdoors0',
+    'Name': 'Red Titan Outdoors',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'REDTUPID',
+    'Name': 'Red Tupid',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'REDWINGBAGS',
+    'Name': 'Red Wing Bags',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'redwoodclassicsapp',
+    'Name': 'Redwood Classics Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'regalseatingcompan',
+    'Name': 'Regal Seating Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'reliantapparelllc',
+    'Name': 'Reliant Apparel LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'renaissancepromoti',
+    'Name': 'Renaissance Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'RFGLINE',
+    'Name': 'RFG Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'riaxesystems',
+    'Name': 'Riaxe Systems',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'richardsgourmetcof',
+    'Name': 'Richards Gourmet Coffee',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'richardsonsports',
+    'Name': 'Richardson Sports',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'risaveenainc',
+    'Name': 'Risaveena Inc',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'riteline',
+    'Name': 'Riteline',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'riverr',
+    'Name': 'Riverr',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'RIVERSGARMENTINC',
+    'Name': 'Rivers Garment Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'RIVERSPROMOINC',
+    'Name': 'Rivers Promo Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'rtj',
+    'Name': 'rjt compuquest',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ro-elgroup',
+    'Name': 'RO-EL GROUP',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'RLP',
+    'Name': 'Robert L Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'robertsonmarketing',
+    'Name': 'Robertson Marketing Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'rocklandwebdesign,',
+    'Name': 'Rockland Web Design, Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'rockpointapparelco',
+    'Name': 'Rockpoint apparel company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'rogue',
+    'Name': 'Rogue River Chocolate',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'room40ptyltd',
+    'Name': 'Room40 PTY LTD',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'rosecitythreads',
+    'Name': 'Rose City Threads',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'route75imprints',
+    'Name': 'Route75 Imprints',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'rowapparelinc.',
+    'Name': 'Row Apparel Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'royalapparel',
+    'Name': 'Royal Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'rozander',
+    'Name': 'rozander',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'rrdonnelley',
+    'Name': 'RR Donnelley',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'rti',
+    'Name': 'RTI',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'RUSHSERVICE',
+    'Name': 'Rush Service',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'rustbuilt,inc.',
+    'Name': 'Rust Built, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'RUSTICO',
+    'Name': 'Rustico',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ryangraphicdesign',
+    'Name': 'Ryan Graphic Design',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'SS',
+    'Name': 'S&S Activewear',
+    'Type': 'Supplier'
+}
+{
+    'Code': 's&scanada',
+    'Name': 'S&S Canada',
+    'Type': 'Supplier'
+}
+{
+    'Code': 's&scustomdesigns',
+    'Name': 'S&S Custom Designs',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ssfashions',
+    'Name': 'S&S Fashions Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'sacatelle',
+    'Name': 'Sacatelle',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'safeguard-iprintan',
+    'Name': 'Safeguard - iPrintandPromo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'safeguardmarketing',
+    'Name': 'Safeguard Marketing Solutions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'safetymade',
+    'Name': 'Safety Made',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'SALUTEPROMOS',
+    'Name': 'Salute Promos',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'sanglobalinc',
+    'Name': 'san global inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'sanfordb2b',
+    'Name': 'Sanford B2B',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'SanMar',
+    'Name': 'SanMar',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'sargeinternational',
+    'Name': 'Sarge International',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'saxonleatherltd.',
+    'Name': 'SAXON LEATHER LTD.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'scalablebrands',
+    'Name': 'Scalable Brands',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'scalablepress',
+    'Name': 'Scalable Press',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'scalablepress0',
+    'Name': 'Scalable Press',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'schertzembroidery,',
+    'Name': 'Schertz Embroidery, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'screamingeagleprom',
+    'Name': 'Screaming Eagle Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'sealprintimaging',
+    'Name': 'seal print imaging',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'seenmerch',
+    'Name': 'Seen Merch',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'SELCO',
+    'Name': 'SELCO',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'sellerscommerce',
+    'Name': 'SellersCommerce',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'seville',
+    'Name': 'Seville Gear',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'shadsadvertisingco',
+    'Name': 'Shads Advertising Co., Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'sharpguyswebdesign',
+    'Name': 'Sharp Guys Web Design',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'sharphue',
+    'Name': 'Sharp Hue',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'sharpmarketing',
+    'Name': 'Sharp Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'sharperbrand',
+    'Name': 'Sharper Brand',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'SHEPENCO',
+    'Name': 'Shepenco',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'shermancreativepro',
+    'Name': 'Sherman Creative Promos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'shirtslingers',
+    'Name': 'Shirt Slingers',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'shopvox',
+    'Name': 'shopvox',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'shopworks',
+    'Name': 'ShopWorks',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'showyourlogo,inc.',
+    'Name': 'Show Your Logo, Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'sign',
+    'Name': 'Showdown Displays ',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'shumsky',
+    'Name': 'Shumsky',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'signaturemediagrou',
+    'Name': 'Signature Media Group',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'signet',
+    'Name': 'Signet',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'signitysolutions',
+    'Name': 'signity solutions',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'silipintpartners,i',
+    'Name': 'Silipint Partners, Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'SilkLetter',
+    'Name': 'SilkLetter',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'silk',
+    'Name': 'Silkworm Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'silverscreenprinti',
+    'Name': 'Silver Screen Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'SIMBA',
+    'Name': 'Simba',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'SIG',
+    'Name': 'Simple Is Good',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'sinalite',
+    'Name': 'SinaLite',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Skinit',
+    'Name': 'SkiNit',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'skinner&kennedyco.',
+    'Name': 'Skinner & Kennedy Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'skylightcreativeid',
+    'Name': 'Skylight Creative Ideas',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'skylightcreativeid0',
+    'Name': 'Skylight Creative Ideas',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'SLINGGRIP',
+    'Name': 'Sling Grip',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'smartcloudlogic',
+    'Name': 'Smart Cloud Logic',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'smartestablishment',
+    'Name': 'Smart Establishment',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'smartgologo',
+    'Name': 'Smart Go Logo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'snugz',
+    'Name': 'Snugz',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'soboconceptsllc',
+    'Name': 'SOBO Concepts LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'sofacommunications',
+    'Name': 'Sofa Communications',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'SOLIDDIMENSIONSINC',
+    'Name': 'Solid Dimensions, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'somethingdigital',
+    'Name': 'Something Digital',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'something',
+    'Name': 'Something Digitial',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'somethinginkedllc',
+    'Name': 'SomethingInked LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'sourceit',
+    'Name': 'sourceit',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'sourcerylimited',
+    'Name': 'Sourcery Limited',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'southernadvertisin',
+    'Name': 'Southern Advertising',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'southernplus0',
+    'Name': 'Southern Plus',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Southern',
+    'Name': 'Southern Plus',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'southernplus',
+    'Name': 'Southern Plus',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'souveniravanti',
+    'Name': 'Souvenir Avanti',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'souvenirmattersinc',
+    'Name': 'Souvenir Matters Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'spacebar',
+    'Name': 'SpaceBar',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'sparx',
+    'Name': 'Sparx',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'spd',
+    'Name': 'SPD',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'speartek',
+    'Name': 'Speartek',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'specializedoffices',
+    'Name': 'Specialized Office Systems, Inc.',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'specialtyinc',
+    'Name': 'specialty incentives',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Spector',
+    'Name': 'Spector',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'spectrumuniforms',
+    'Name': 'Spectrum',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'spectrumuniforms00',
+    'Name': 'Spectrum Uniforms',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'spectrumuniforms0',
+    'Name': 'Spectrum Uniforms',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'specworks',
+    'Name': 'Specworks',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'specworks,inc',
+    'Name': 'Specworks, Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'spirithero,llc',
+    'Name': 'Spirit Hero, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'sportexsafety',
+    'Name': 'Sportex Safety',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'sportsawards',
+    'Name': 'Sports Awards',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'springdynamic',
+    'Name': 'Spring Dynamic',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'SPRINTERSADVERTISING',
+    'Name': 'Sprinters Advertising',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'StRegis',
+    'Name': 'St Regis Crystal',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'stahls',
+    'Name': 'Stahls',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'StInk',
+    'Name': 'Standard Ink',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Staples',
+    'Name': 'Staples',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'STAR',
+    'Name': 'Starline',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'starline',
+    'Name': 'Starline old',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'starling',
+    'Name': 'Starling Solutions',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'staysharp',
+    'Name': 'Stay Sharp',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'sterlingcutglassco',
+    'Name': 'Sterling Cut Glass Co., Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'STEVENSMITHSTUFFEDANIMALSINC',
+    'Name': 'Steven Smith Stuffed Animals, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'stgprintshop',
+    'Name': 'STG PRINT SHOP',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'STICKERBEAT',
+    'Name': 'Stickerbeat',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'stickeryou',
+    'Name': 'StickerYou',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'stitchdesigners',
+    'Name': 'Stitch Designers',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'stitchdesignersinc',
+    'Name': 'Stitch Designers Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'stopngoline/golden',
+    'Name': 'STOPNGO Line / Golden Applexx',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'storefrontier',
+    'Name': 'StoreFrontier',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'stormcreek',
+    'Name': 'Storm Creek',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'STORMDUDSRAINGEAR',
+    'Name': 'Storm Duds Raingear',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'stormtech',
+    'Name': 'Stormtech',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'stousellc',
+    'Name': 'Stouse LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'straightup',
+    'Name': 'Straight Up',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'STRIDELINE',
+    'Name': 'Strideline',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'strikepromo',
+    'Name': 'Strike Promo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'STROMBERGBRAND',
+    'Name': 'Stromberg Brand / The Hudson Valley Umbrella',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'strombergbrandumbr',
+    'Name': 'Stromberg Brand Umbrellas',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'STRONGLEATHERCO',
+    'Name': 'Strong Leather Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'stylecraft',
+    'Name': 'Stylecraft',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'successories',
+    'Name': 'Successories',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Summit',
+    'Name': 'Summit Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'suncoastmarketing',
+    'Name': 'SUNCOAST MARKETING',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'sunjoy',
+    'Name': 'SunJoy',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'sunrisepromosinc',
+    'Name': 'Sunrise Promos Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Sun',
+    'Name': 'Sunscope',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'suntext',
+    'Name': 'Suntex',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'superbagline',
+    'Name': 'Super Bag Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'superteebrandbuild',
+    'Name': 'Supertee Brand Builder',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'supplylogic',
+    'Name': 'SupplyLogic',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'swagpromo',
+    'Name': 'Swag Promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'swag.com',
+    'Name': 'Swag.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'swag4you',
+    'Name': 'Swag4You',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'swag4you0',
+    'Name': 'Swag4You',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'swagables',
+    'Name': 'Swagables',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'swaggos',
+    'Name': 'Swaggos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'swagup,llc',
+    'Name': 'SwagUp, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'swagyourbrand.com',
+    'Name': 'SwagYourBrand.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Sweda',
+    'Name': 'Sweda',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'swornapparel',
+    'Name': 'Sworn Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'symbiopromotions',
+    'Name': 'Symbio Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'symbiopromotions0',
+    'Name': 'Symbio Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'syncrasy',
+    'Name': 'syncrasy',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'syrreo',
+    'Name': 'Syrreo',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'sysprocanada',
+    'Name': 'SYSPRO Canada',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'systemaxcorporatio',
+    'Name': 'Systemax Corporation',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'tprintsscreenprint0',
+    'Name': 'T Prints Screen Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tprintsscreenprint',
+    'Name': 'T Prints Screen Printing and Embroidery',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tabcobusinessforms',
+    'Name': 'Tabco Business Forms, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tagteam',
+    'Name': 'Tag',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tag',
+    'Name': 'Tagmaster',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Target',
+    'Name': 'Target Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'taylorr',
+    'Name': 'Taylor',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'taylor',
+    'Name': 'Taylor Communications',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'taylormadegolfcana',
+    'Name': 'TaylorMade Golf Canada',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tdillc',
+    'Name': 'TDI LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'teamuniformorders.',
+    'Name': 'Teamuniformorders.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'teamworld',
+    'Name': 'TeamWorld',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'teecommercellc',
+    'Name': 'Tee Commerce LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'TeeShirt',
+    'Name': 'Tee Shirt Bakery',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'teeshirtcentral',
+    'Name': 'Tee Shirt Central',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'teecalshopmanageme',
+    'Name': 'TeeCal Shop Management Software',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'tekweld',
+    'Name': 'Tekweld',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'telus',
+    'Name': 'Telus',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'tempo',
+    'Name': 'Tempo Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Tender',
+    'Name': 'Tender Corporation',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'terry',
+    'Name': 'Terrytown',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tervistumblerco',
+    'Name': 'Tervis Tumbler Co',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'testpromo',
+    'Name': 'Test Promo',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'texascontractembro',
+    'Name': 'TEXAS CONTRACT EMBROIDERY CO',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'theampersandgroupl',
+    'Name': 'The Ampersand Group LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'theartcraftgroup',
+    'Name': 'The Artcraft Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'THEBANNERSTORE',
+    'Name': 'The Banner Store',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'THEBEACHCOMPANY',
+    'Name': 'The Beach Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'thebeistlecompany',
+    'Name': 'The Beistle Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'thebookcompany',
+    'Name': 'THE BOOK COMPANY',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'thechestllc',
+    'Name': 'The Chest LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'THECRAFTLINE',
+    'Name': 'The Craft Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'thedooleycompanyin',
+    'Name': 'The Dooley Company Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Tea',
+    'Name': 'The Executive Advertising',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'thefoundrybsg',
+    'Name': 'The Foundry BSG',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'thegavelcompany',
+    'Name': 'The Gavel Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'HB',
+    'Name': 'The HB Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'theicebox',
+    'Name': 'The Icebox',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'theidentitysource',
+    'Name': 'The Identity Source',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'theilsnetwork,llc',
+    'Name': 'THE ILS NETWORK, LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'jpaul',
+    'Name': 'The JPaul Company',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'THEKNOBBYKRAFTERSINC',
+    'Name': 'The Knobby Krafters Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'MAG',
+    'Name': 'The Magnet Group',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'McGee',
+    'Name': 'The McGee Company',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'themontereycompany',
+    'Name': 'the monterey company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'theoleprintshop',
+    'Name': 'The Ole Print Shop',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'thepaisleypig',
+    'Name': 'The Paisley Pig',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'THEPREMIUMLINE',
+    'Name': 'The Premium Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'theproinnovativeli',
+    'Name': 'The Proinnovative Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'thepromoery',
+    'Name': 'The Promoery',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'promodept',
+    'Name': 'The Promotions Dept',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'thesavvygiftgiver,',
+    'Name': 'The Savvy Gift Giver, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'shipyard',
+    'Name': 'The Ship Yard',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'thestandardgroup',
+    'Name': 'The Standard Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'uniformauthority',
+    'Name': 'The Uniform Authority',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'thinklogo',
+    'Name': 'Think Logo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'threadfellows',
+    'Name': 'Threadfellows',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'threetwinsproducti',
+    'Name': 'Three Twins Productions, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'thumb',
+    'Name': 'thumbprint',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tigress',
+    'Name': 'Tigress Design',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'timeframe/mojomagn',
+    'Name': 'TIME FRAME / Mojo Magnets',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tinstaafl,llc0',
+    'Name': 'Tinstaafl, llc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tinstaafl,llc',
+    'Name': 'Tinstaafl, LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tmp',
+    'Name': 'tmp',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Toddy',
+    'Name': 'Toddy Gear',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tomaxusa0',
+    'Name': 'Tomaxusa',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tomaxusa00',
+    'Name': 'Tomaxusa',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tomaxusa',
+    'Name': 'Tomaxusa',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'toolsofmarketing',
+    'Name': 'Tools of Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'topdogapparel',
+    'Name': 'Top Dog Apparel',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'topovitenterprise',
+    'Name': 'TOPOVIT ENTERPRISE',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'totallybamboo',
+    'Name': 'Totally Bamboo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'totallypromotional',
+    'Name': 'Totally Promotional',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'totesfactory',
+    'Name': 'Totes Factory',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Touchstone',
+    'Name': 'Touchstone',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'towelspecialties',
+    'Name': 'Towel Specialties',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'towsleys',
+    'Name': 'Towsleys',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'TPS',
+    'Name': 'TPS Promotional Incentives',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Trade',
+    'Name': 'Trademarks',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'TradeNet',
+    'Name': 'TradeNet',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'TRANTERGRAPHICSINC',
+    'Name': 'Tranter Graphics, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'TRENDYLINE',
+    'Name': 'Trendy Line',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Tri',
+    'Name': 'Tri-Mountain',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tribesocks',
+    'Name': 'Tribe Socks',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Trimountain',
+    'Name': 'Trimountain',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'triviamarketing',
+    'Name': 'TRIVIA Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'troncindesignonein',
+    'Name': 'Troncin Design One Inc. dba Fully Promoted',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tscapparel',
+    'Name': 'TSC Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tsfsportswear',
+    'Name': 'TSF Sportswear',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tshirtgang',
+    'Name': 'Tshirtgang',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tshirts4screenprin',
+    'Name': 'Tshirts 4 Screenprinting',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tshirtsink',
+    'Name': 'Tshirts Ink',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'tsmgi',
+    'Name': 'TSMGI',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'tsmgi0',
+    'Name': 'TSMGI',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'twgintl',
+    'Name': 'TWG International',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Twin',
+    'Name': 'Twintech Industry',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'twopathlane,llc',
+    'Name': 'Two Path Lane, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ububrands',
+    'Name': 'UBU Brands',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'UBXINC',
+    'Name': 'UBX Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'uducat',
+    'Name': 'uducat',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'ULTRAPEN',
+    'Name': 'Ultra Penworks',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'unpromotionalsolut',
+    'Name': 'UN Promotional Solutions, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'underabuck',
+    'Name': 'underabuck.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'undergroundprintin00',
+    'Name': 'Underground Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'undergroundprintin',
+    'Name': 'underground printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'undergroundprintin0',
+    'Name': 'Underground Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'unik21',
+    'Name': 'unik21',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'unitedfranchisegro',
+    'Name': 'United Franchise Group',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'upnorthimagewear',
+    'Name': 'Up North Imagewear',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'upmerch',
+    'Name': 'UpMerch',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'upparel',
+    'Name': 'Upparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'usflash',
+    'Name': 'US Flash',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'USImprints',
+    'Name': 'US Imprints',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'usbmemorydirect',
+    'Name': 'USB Memory Direct',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'USMCAMFG',
+    'Name': 'Usmca Mfg.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'vantage',
+    'Name': 'Vantage Apparel',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'vasinternationalll',
+    'Name': 'VAS INTERNATIONAL LLC',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'vaultpromotions',
+    'Name': 'Vault Promotions',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'vellica',
+    'Name': 'Vellica',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'velocitymarketings',
+    'Name': 'VELOCITY MARKETING SERVICES',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'Vernon',
+    'Name': 'Vernon',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'vesta',
+    'Name': 'Vesta',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'VIAKITCOMPANY',
+    'Name': 'Via Kit Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'vibrantprintshop',
+    'Name': 'Vibrant Print Shop',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'victorinoxswissamr',
+    'Name': 'Victorinox Swiss Amry, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'vim&vigorboutique',
+    'Name': 'Vim&Vigor Boutique',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'vinsol0',
+    'Name': 'Vinsol',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'vinsol',
+    'Name': 'vinsol',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'visibleculture',
+    'Name': 'visible culture',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'visioncustomappare',
+    'Name': 'Vision Custom Apparel LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'visioneerbranding,',
+    'Name': 'Visioneer Branding, LLC',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'visionsawardcraft',
+    'Name': 'Visions Awardcraft',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'vispak',
+    'Name': 'Vispak',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'visstun',
+    'Name': 'Visstun',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'vistaprint',
+    'Name': 'Vistaprint',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'visualpromotions',
+    'Name': 'Visual Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'visualtextileresou',
+    'Name': 'Visual Textile Resource',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'vivus',
+    'Name': 'vivus designs',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'voxmarketinggroup',
+    'Name': 'Vox Marketing Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'vupromo',
+    'Name': 'vu promo',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'w3',
+    'Name': 'w3',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'wabiibranding',
+    'Name': 'Wabii Branding',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wabiibrandinginc',
+    'Name': 'Wabii Branding Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wabiibrandinginc0',
+    'Name': 'Wabii Branding Inc',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'walkingbillboards',
+    'Name': 'WALKING BILLBOARDS',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'WALTERSSEEDCOMPANYLLC',
+    'Name': 'Walters Seed Company LLC',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'warwickpublishingc',
+    'Name': 'Warwick Publishing Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'washingtonpromotio',
+    'Name': 'Washington Promotional Group',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'waterdepot',
+    'Name': 'Water Depot',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Jag',
+    'Name': 'Web Jaguar',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'webretailgroup',
+    'Name': 'Web Retail Group',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'webservicespros,in',
+    'Name': 'Web Services Pros, Inc',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'web2ink',
+    'Name': 'Web2ink',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'webb',
+    'Name': 'Webb Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'webbcompany',
+    'Name': 'Webb Company',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'webbytroops',
+    'Name': 'WebbyTroops',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'wedoswag.com0',
+    'Name': 'wedoswag.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wedoswag.com00',
+    'Name': 'wedoswag.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wedoswag.com',
+    'Name': 'wedoswag.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'weismannweb',
+    'Name': 'Weismann Web',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'wellsprintingandpr',
+    'Name': 'Wells Printing and Promotional',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wepsourcing',
+    'Name': 'WEP Sourcing',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'wescanembroidery&p',
+    'Name': 'Wescan Embroidery & Printing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'whp',
+    'Name': "What's Happening Promotions",
+    'Type': 'Distributor'
+}
+{
+    'Code': 'whitebearclothingc',
+    'Name': 'White Bear Clothing Co.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'WhitePaper',
+    'Name': 'White Paper',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'whiteboard',
+    'Name': 'Whiteboard Promotions',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'whitneypromotions,',
+    'Name': 'Whitney Promotions, Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'Whoop',
+    'Name': 'WhoopTee',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wildimpactmarketin',
+    'Name': 'Wild Impact Marketing',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wildmanbusinessgro',
+    'Name': 'Wildman Business Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wildman',
+    'Name': 'Wildman Business Group',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wildmanimprints',
+    'Name': 'WildmanImprints',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wincraft',
+    'Name': 'WinCraft',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'WC',
+    'Name': 'Windy City Novelties',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wingateproducts',
+    'Name': 'Wingate Products',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'Winning',
+    'Name': 'Winning Streak',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wisebusinessforms',
+    'Name': 'Wise Business Forms',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'withlogos',
+    'Name': 'WithLogos',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'wnc',
+    'Name': 'wnc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'wolf',
+    'Name': 'Wolf Mark Ties',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'WOLFMARK',
+    'Name': 'Wolfmark',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'woltman',
+    'Name': 'Woltman Trophies',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'WONDERFULTHINKER',
+    'Name': 'Wonderful Thinker',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'WONDERLANDPROMO',
+    'Name': 'Wonderland Promo',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'worldwideusa',
+    'Name': 'Worldwide-USA',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'worrellcorporation',
+    'Name': 'Worrell Corporation',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'wovinbrands',
+    'Name': 'WOVIN Brands',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'WOW',
+    'Name': 'WOWLine',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'wowzycreationcorpd',
+    'Name': 'Wowzy Creation Corp DBA First Place Inc.',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'www.topdogappareli',
+    'Name': 'www.topdogapparelinc.com',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'xarisma',
+    'Name': 'xarisma',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'xebra',
+    'Name': 'xebra',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'xperiasolutions',
+    'Name': 'xperia',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'xplorinc',
+    'Name': 'Xplor Inc',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'YAFAINC',
+    'Name': 'Yafa, Inc.',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'yoprint',
+    'Name': 'YoPrint',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'yoteesdesigns',
+    'Name': 'Yotees Designs',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'yourbrandunleashed',
+    'Name': 'Your Brand Unleashed',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'yourimageworks',
+    'Name': 'Your Image Works',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'youthsourcinggroup',
+    'Name': 'Youth Sourcing Group',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'yurstore.com',
+    'Name': 'yurstore.com',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'zag',
+    'Name': 'Zagwear',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'zaprinta',
+    'Name': 'Zaprinta',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'ZEITCOMPANYINC',
+    'Name': 'Zeit Company Inc',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'zerozen',
+    'Name': 'ZeroZen',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'zingmfg',
+    'Name': 'Zing Manufacturing',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'zome',
+    'Name': 'Zome Design',
+    'Type': 'Distributor'
+}
+{
+    'Code': 'zoogee',
+    'Name': 'Zoogee',
+    'Type': 'Supplier'
+}
+{
+    'Code': 'ZOOM',
+    'Name': 'Zoom Catalog',
+    'Type': 'Service Provider'
+}
+{
+    'Code': 'zswag',
+    'Name': 'zswag',
+    'Type': 'Distributor'
+}
